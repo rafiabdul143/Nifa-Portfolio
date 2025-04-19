@@ -158,11 +158,11 @@ main{
     margin-top: 23px;
    padding: 6px;
    font-size: 16px;
-   border: 2px solid rgb(113, 246, 11);
-   background: rgb(113, 246, 11);
+   /* border: 2px solid rgb(113, 246, 11); */
+   background: black;
    border-radius: 6px;
    color:rgb(0, 0, 0);
-   box-shadow: 2px 2px 10px rgb(113, 246, 11);
+   /* box-shadow: 2px 2px 10px rgb(113, 246, 11); */
 }
 #btn:hover{
 
